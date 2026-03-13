@@ -1,7 +1,7 @@
 // Default settings
 const DEFAULT_BIRTHDAY = '2007-12-31';
 const DEFAULT_LIFESPAN = 72;
-const DEFAULT_LANG     = 'ru';
+const DEFAULT_LANG     = 'en';
 
 
 // LocalStorage
